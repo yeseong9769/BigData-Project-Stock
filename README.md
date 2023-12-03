@@ -59,3 +59,16 @@
 결과적으로 이번 분석에서는 뉴스와 주가간의 상관관계는 어느정도 있는 것으로 보인다.<br>
 그러나 일단 수집할 수 있었던 데이터의 범위가 제한적이였기 때문에 좀 더 과거에도 상관관계가 있었을지 아니면 미래에도 상관관계가 있을지는 미지수이다.<br>
 또 아쉬운 점으로, 장 마감 후에 나온 뉴스 기사는 당일 주가에는 영향을 미치지 못하지만 그 다음날의 주가에는 영향을 미칠 수 있기 때문에 이런 것들을 고려해서 시간별로 세분화 해서 분석할 수 있었다면 좀 더 좋은 결과가 나오지 않았을까 생각한다.<br>
+
+### Reference
+김유신, 김남규, 정승렬. (2012). 뉴스와 주가 : 빅데이터 감성분석을 통한 지능형 투자의사결정모형. 지능정보연구, 18(2), 143-156.
+
+이예지. "뉴스 빅데이터 분석을 통한 종목별 주가예측." 국내석사학위논문 충북대학교, 2014. 충청북도
+
+https://songseungwon.tistory.com/124
+
+https://github.com/CSJ516/Stock_Prediction_project
+
+https://github.com/seyoongit/news
+
+https://github.com/park-gb/financial-news-sentiment-classifier/blob/main/sentiment_classifier.ipynb
